@@ -1,7 +1,7 @@
 .nav {
     padding-top: 33px;
-    padding-bottom: 33px;
-    margin-left: 824px;
+    padding-bottom: 66px;
+    margin-left: 915px;
     color: #5FCCDD;
 }
 .header {
@@ -70,23 +70,29 @@
 .home {
     color: #51C3DA;
     margin-right: 30px;
-    margin-left: 74px;
+    margin-left: 0px;
+    padding-left: 0px;
+    float: left;
 }
 .about {
     margin-right: 32px;
     color: #4BBED6;
+    float: left;
 }
 .cafe {
     color: #4AC0DA;
     margin-right: 31px;
+    float: left;
 }
 .spa {
     margin-right: 32px;
     color: #5DBAD3;
+    float: left;
 }
 .act {
     color: #4BC4D3;
     margin-right: 2px;
+    float: left;
 }
 .nav-img {
     float: left;
